@@ -19,7 +19,7 @@ class Jumper:
     def draw_jumper(self):
         for piece in self._jumper:
              self.terminalService.write_text(piece)
-    
+    # add function to remove parachute
     def remove_parachute_piece(self):
         self._jumper.pop(0)
         

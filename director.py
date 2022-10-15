@@ -10,7 +10,9 @@ class Director:
         self._word = Word()
         
     def start_game(self):
-        
+        """
+        Start the game by running the game main loop
+        """
         """
          Args:
          self (Director): an instance of Director.   
@@ -22,6 +24,7 @@ class Director:
             self._is_playing = False
  
     def _get_inputs(self):
+    
         pass
 
     def _do_updates(self):
