@@ -1,9 +1,9 @@
-# cse210-03
-
-# Purpose of this game 
-Jumper is a game in which the player seeks to solve a puzzle by guessing the letters of a secret word one at a time.
+# Purpose of this team project
+To create the codes and run the codes. 
+Understanding the functions in programming lesson.
 
 # Rules
+Jumper is a game in which the player seeks to solve a puzzle by guessing the letters of a secret word one at a time. 
 Jumper is played according to the following rules.
 The puzzle is a secret word randomly chosen from a list.
 The player guesses a letter in the puzzle.
